@@ -1,0 +1,1 @@
+This directory and the files in it deal with redirections commands in shell
