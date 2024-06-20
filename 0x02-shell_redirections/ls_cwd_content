@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 donchristi donchristi 4096 Jun 20 21:02 .
+drwxr-xr-x 5 donchristi donchristi 4096 Jun 20 19:27 ..
+-rwxr-xr-x 1 donchristi donchristi   32 Jun 20 19:37 0-hello_world
+-rwxr--r-- 1 donchristi donchristi   28 Jun 20 19:58 1-confused_smiley
+-rwxr-xr-x 1 donchristi donchristi   28 Jun 20 20:04 2-hellofile
+-rwxr--r-- 1 donchristi donchristi   39 Jun 20 20:10 3-twofiles
+-rwxr--r-- 1 donchristi donchristi   35 Jun 20 20:13 4-lastlines
+-rwxr--r-- 1 donchristi donchristi   35 Jun 20 20:21 5-firstlines
+-rwxr--r-- 1 donchristi donchristi   40 Jun 20 20:26 6-third_line
+-rwxr--r-- 1 donchristi donchristi   36 Jun 20 21:01 8-cwd_state
+-rw-r--r-- 1 donchristi donchristi   76 Jun 20 19:32 README.md
+-rw-r--r-- 1 donchristi donchristi   81 Jun 20 19:31 This
+-rw-r--r-- 1 donchristi donchristi  801 Jun 20 20:28 iacta
+-rw-r--r-- 1 donchristi donchristi    0 Jun 20 21:02 ls_cwd_content
